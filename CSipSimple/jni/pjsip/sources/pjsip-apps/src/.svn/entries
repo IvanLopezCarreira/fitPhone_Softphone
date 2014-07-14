@@ -1,0 +1,64 @@
+10
+
+dir
+4862
+http://svn.pjsip.org/repos/pjproject/trunk/pjsip-apps/src
+http://svn.pjsip.org/repos
+
+
+
+2014-05-23T09:29:09.163268Z
+4851
+nanang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+samples
+dir
+
+vidgui
+dir
+
+3rdparty_media_sample
+dir
+
+pjsystest
+dir
+
+swig
+dir
+
+confbot
+dir
+
+py_pjsua
+dir
+
+pygui
+dir
+
+symsndtest
+dir
+
+ipjsystest
+dir
+
+python
+dir
+
+pjsua
+dir
+

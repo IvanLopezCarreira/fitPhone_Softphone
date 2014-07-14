@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 64
+pjsua2.py
+pjsua2_wrap.cpp
+build
+pjsua2_wrap.h
+_pjsua2.pyd
+*.exe
+
+END

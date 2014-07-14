@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/4798/pjproject/trunk/pjsip-apps/src/pygui
+END
+chat.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/4757/pjproject/trunk/pjsip-apps/src/pygui/chat.py
+END
+endpoint.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/4704/pjproject/trunk/pjsip-apps/src/pygui/endpoint.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/4704/pjproject/trunk/pjsip-apps/src/pygui/settings.py
+END
+log.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/4704/pjproject/trunk/pjsip-apps/src/pygui/log.py
+END
+application.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/4798/pjproject/trunk/pjsip-apps/src/pygui/application.py
+END
+chatgui.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/4757/pjproject/trunk/pjsip-apps/src/pygui/chatgui.py
+END
+buddy.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/4704/pjproject/trunk/pjsip-apps/src/pygui/buddy.py
+END
+accountsetting.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/4704/pjproject/trunk/pjsip-apps/src/pygui/accountsetting.py
+END
+call.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/4757/pjproject/trunk/pjsip-apps/src/pygui/call.py
+END
+account.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/4704/pjproject/trunk/pjsip-apps/src/pygui/account.py
+END

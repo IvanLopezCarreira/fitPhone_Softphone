@@ -1,0 +1,461 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/freetel/code/!svn/ver/1485/codec2-dev/src
+END
+postfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/freetel/code/!svn/ver/1255/codec2-dev/src/postfilter.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/freetel/code/!svn/ver/1295/codec2-dev/src/CMakeLists.txt
+END
+lsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/freetel/code/!svn/ver/1401/codec2-dev/src/lsp.c
+END
+sine.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/freetel/code/!svn/ver/1269/codec2-dev/src/sine.c
+END
+fdmdv_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/freetel/code/!svn/ver/1179/codec2-dev/src/fdmdv_mod.c
+END
+generate_codebook.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/freetel/code/!svn/ver/272/codec2-dev/src/generate_codebook.c
+END
+postfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/freetel/code/!svn/ver/272/codec2-dev/src/postfilter.h
+END
+lsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/freetel/code/!svn/ver/272/codec2-dev/src/lsp.h
+END
+sine.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/freetel/code/!svn/ver/1255/codec2-dev/src/sine.h
+END
+test_bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/freetel/code/!svn/ver/1177/codec2-dev/src/test_bits.h
+END
+dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/freetel/code/!svn/ver/1255/codec2-dev/src/dump.c
+END
+fdmdv_put_test_bits.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/freetel/code/!svn/ver/1481/codec2-dev/src/fdmdv_put_test_bits.c
+END
+dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/freetel/code/!svn/ver/1255/codec2-dev/src/dump.h
+END
+codebookdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/freetel/code/!svn/ver/679/codec2-dev/src/codebookdt.c
+END
+phaseexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/freetel/code/!svn/ver/1481/codec2-dev/src/phaseexp.c
+END
+lpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/freetel/code/!svn/ver/1269/codec2-dev/src/lpc.c
+END
+_kiss_fft_guts.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/freetel/code/!svn/ver/272/codec2-dev/src/_kiss_fft_guts.h
+END
+sim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/freetel/code/!svn/ver/272/codec2-dev/src/sim.sh
+END
+octave.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/freetel/code/!svn/ver/391/codec2-dev/src/octave.c
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/freetel/code/!svn/ver/723/codec2-dev/src/defines.h
+END
+phaseexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/freetel/code/!svn/ver/723/codec2-dev/src/phaseexp.h
+END
+lpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/freetel/code/!svn/ver/753/codec2-dev/src/lpc.h
+END
+octave.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/freetel/code/!svn/ver/391/codec2-dev/src/octave.h
+END
+hanning.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/freetel/code/!svn/ver/373/codec2-dev/src/hanning.h
+END
+c2enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/freetel/code/!svn/ver/1206/codec2-dev/src/c2enc.c
+END
+codebookvqanssi.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/freetel/code/!svn/ver/754/codec2-dev/src/codebookvqanssi.c
+END
+codebookvq.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/freetel/code/!svn/ver/304/codec2-dev/src/codebookvq.c
+END
+codebookjvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/freetel/code/!svn/ver/487/codec2-dev/src/codebookjvm.c
+END
+glottal.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/freetel/code/!svn/ver/272/codec2-dev/src/glottal.c
+END
+kiss_fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/freetel/code/!svn/ver/272/codec2-dev/src/kiss_fft.c
+END
+fdmdv_demod.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/freetel/code/!svn/ver/1481/codec2-dev/src/fdmdv_demod.c
+END
+c2demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/freetel/code/!svn/ver/1485/codec2-dev/src/c2demo.c
+END
+kiss_fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/freetel/code/!svn/ver/601/codec2-dev/src/kiss_fft.h
+END
+fdmdv_interleave.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/freetel/code/!svn/ver/1210/codec2-dev/src/fdmdv_interleave.c
+END
+fdmdv_get_test_bits.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/freetel/code/!svn/ver/1186/codec2-dev/src/fdmdv_get_test_bits.c
+END
+c2dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/freetel/code/!svn/ver/1485/codec2-dev/src/c2dec.c
+END
+globals.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/freetel/code/!svn/ver/272/codec2-dev/src/globals.c
+END
+codec2_fdmdv.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/freetel/code/!svn/ver/1225/codec2-dev/src/codec2_fdmdv.h
+END
+genlspdtcb.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/freetel/code/!svn/ver/297/codec2-dev/src/genlspdtcb.c
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/freetel/code/!svn/ver/272/codec2-dev/src/globals.h
+END
+quantise.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/freetel/code/!svn/ver/1485/codec2-dev/src/quantise.c
+END
+quantise.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/freetel/code/!svn/ver/1485/codec2-dev/src/quantise.h
+END
+codebookres.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/freetel/code/!svn/ver/292/codec2-dev/src/codebookres.c
+END
+codec2_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/freetel/code/!svn/ver/1207/codec2-dev/src/codec2_internal.h
+END
+fq20.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/freetel/code/!svn/ver/272/codec2-dev/src/fq20.sh
+END
+phase.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/freetel/code/!svn/ver/1269/codec2-dev/src/phase.c
+END
+phase.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/freetel/code/!svn/ver/723/codec2-dev/src/phase.h
+END
+codec2_fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/freetel/code/!svn/ver/1150/codec2-dev/src/codec2_fifo.h
+END
+c2sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/freetel/code/!svn/ver/1485/codec2-dev/src/c2sim.c
+END
+golay23.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/freetel/code/!svn/ver/1222/codec2-dev/src/golay23.c
+END
+codebookjnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/freetel/code/!svn/ver/304/codec2-dev/src/codebookjnd.c
+END
+fec_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/freetel/code/!svn/ver/1215/codec2-dev/src/fec_enc.c
+END
+fifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/freetel/code/!svn/ver/1308/codec2-dev/src/fifo.c
+END
+rn.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/freetel/code/!svn/ver/371/codec2-dev/src/rn.h
+END
+golay23.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/freetel/code/!svn/ver/1222/codec2-dev/src/golay23.h
+END
+nlp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/freetel/code/!svn/ver/1481/codec2-dev/src/nlp.c
+END
+ampexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/freetel/code/!svn/ver/1481/codec2-dev/src/ampexp.c
+END
+nlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/freetel/code/!svn/ver/1255/codec2-dev/src/nlp.h
+END
+pilot_coeff.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/freetel/code/!svn/ver/373/codec2-dev/src/pilot_coeff.h
+END
+codec2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/freetel/code/!svn/ver/1485/codec2-dev/src/codec2.c
+END
+ampexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/freetel/code/!svn/ver/611/codec2-dev/src/ampexp.h
+END
+listensim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/freetel/code/!svn/ver/913/codec2-dev/src/listensim.sh
+END
+insert_errors.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/freetel/code/!svn/ver/1481/codec2-dev/src/insert_errors.c
+END
+fdmdv.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/freetel/code/!svn/ver/1225/codec2-dev/src/fdmdv.c
+END
+fdmdv_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/freetel/code/!svn/ver/1225/codec2-dev/src/fdmdv_internal.h
+END
+codebookge.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/freetel/code/!svn/ver/341/codec2-dev/src/codebookge.c
+END
+interp.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/freetel/code/!svn/ver/1269/codec2-dev/src/interp.c
+END
+comp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/freetel/code/!svn/ver/272/codec2-dev/src/comp.h
+END
+codec2.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/freetel/code/!svn/ver/1485/codec2-dev/src/codec2.h
+END
+machdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/freetel/code/!svn/ver/1255/codec2-dev/src/machdep.h
+END
+interp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/freetel/code/!svn/ver/1207/codec2-dev/src/interp.h
+END
+fec_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/freetel/code/!svn/ver/1210/codec2-dev/src/fec_dec.c
+END
+pack.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/freetel/code/!svn/ver/311/codec2-dev/src/pack.c
+END
+codebook.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/freetel/code/!svn/ver/492/codec2-dev/src/codebook.c
+END
+os.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/freetel/code/!svn/ver/407/codec2-dev/src/os.h
+END
+codebookd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/freetel/code/!svn/ver/729/codec2-dev/src/codebookd.c
+END

@@ -1,0 +1,67 @@
+10
+
+dir
+4862
+http://svn.pjsip.org/repos/pjproject/trunk/pjsip-apps/src/swig/java/android/res
+http://svn.pjsip.org/repos
+
+
+
+2014-02-05T09:32:57.855954Z
+4734
+nanang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+values
+dir
+
+values-sw720dp-land
+dir
+
+values-sw600dp
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-xxhdpi
+dir
+
+menu
+dir
+
+values-v11
+dir
+
+drawable-ldpi
+dir
+
+values-v14
+dir
+
+drawable-mdpi
+dir
+

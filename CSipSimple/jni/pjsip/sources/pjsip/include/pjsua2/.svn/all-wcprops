@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/4845/pjproject/trunk/pjsip/include/pjsua2
+END
+call.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/4780/pjproject/trunk/pjsip/include/pjsua2/call.hpp
+END
+account.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/4704/pjproject/trunk/pjsip/include/pjsua2/account.hpp
+END
+doxygen.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/4704/pjproject/trunk/pjsip/include/pjsua2/doxygen.hpp
+END
+media.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/4845/pjproject/trunk/pjsip/include/pjsua2/media.hpp
+END
+endpoint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/4704/pjproject/trunk/pjsip/include/pjsua2/endpoint.hpp
+END
+persistent.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/4704/pjproject/trunk/pjsip/include/pjsua2/persistent.hpp
+END
+siptypes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/4704/pjproject/trunk/pjsip/include/pjsua2/siptypes.hpp
+END
+presence.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/4704/pjproject/trunk/pjsip/include/pjsua2/presence.hpp
+END
+types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/4742/pjproject/trunk/pjsip/include/pjsua2/types.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/4704/pjproject/trunk/pjsip/include/pjsua2/config.hpp
+END
+json.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/4704/pjproject/trunk/pjsip/include/pjsua2/json.hpp
+END

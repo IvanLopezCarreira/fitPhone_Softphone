@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 105
+*.raw
+*.txt
+*.mdl
+*.png
+*.wav
+*.bit
+c2sim
+c2demo
+c2enc
+c2dec
+.deps
+Makefile
+generate_codebook
+genlspdtcb
+
+END

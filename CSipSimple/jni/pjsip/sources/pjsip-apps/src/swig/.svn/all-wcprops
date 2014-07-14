@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/!svn/ver/4845/pjproject/trunk/pjsip-apps/src/swig
+END
+pjsua2.i
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/4845/pjproject/trunk/pjsip-apps/src/swig/pjsua2.i
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/4746/pjproject/trunk/pjsip-apps/src/swig/Makefile
+END
+symbols.i
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/4845/pjproject/trunk/pjsip-apps/src/swig/symbols.i
+END
+symbols.lst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/4845/pjproject/trunk/pjsip-apps/src/swig/symbols.lst
+END
+importsym.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/4704/pjproject/trunk/pjsip-apps/src/swig/importsym.py
+END

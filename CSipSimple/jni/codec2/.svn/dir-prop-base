@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 69
+sources -r1486 https://svn.code.sf.net/p/freetel/code/codec2-dev/src
+
+END

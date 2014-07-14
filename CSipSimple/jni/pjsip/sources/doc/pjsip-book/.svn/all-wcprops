@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/!svn/ver/4772/pjproject/trunk/doc/pjsip-book
+END
+optimization.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/4762/pjproject/trunk/doc/pjsip-book/optimization.rst
+END
+media_quality.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/4762/pjproject/trunk/doc/pjsip-book/media_quality.rst
+END
+intro.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/4772/pjproject/trunk/doc/pjsip-book/intro.rst
+END
+account.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/4762/pjproject/trunk/doc/pjsip-book/account.rst
+END
+network_problems.rst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/4762/pjproject/trunk/doc/pjsip-book/network_problems.rst
+END
+reference.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/4763/pjproject/trunk/doc/pjsip-book/reference.rst
+END
+samples.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/4762/pjproject/trunk/doc/pjsip-book/samples.rst
+END
+presence.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/4762/pjproject/trunk/doc/pjsip-book/presence.rst
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/!svn/ver/4763/pjproject/trunk/doc/pjsip-book/conf.py
+END
+consider.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/4772/pjproject/trunk/doc/pjsip-book/consider.rst
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/4772/pjproject/trunk/doc/pjsip-book/Makefile
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/4763/pjproject/trunk/doc/pjsip-book/index.rst
+END
+breathe.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/4763/pjproject/trunk/doc/pjsip-book/breathe.rst
+END
+make.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/4704/pjproject/trunk/doc/pjsip-book/make.bat
+END
+call.rst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/4762/pjproject/trunk/doc/pjsip-book/call.rst
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/4762/pjproject/trunk/doc/pjsip-book/Doxyfile
+END
+intro_pjsua2.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/4772/pjproject/trunk/doc/pjsip-book/intro_pjsua2.rst
+END
+media.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/4762/pjproject/trunk/doc/pjsip-book/media.rst
+END
+endpoint.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/4762/pjproject/trunk/doc/pjsip-book/endpoint.rst
+END
+fetch_trac.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/4762/pjproject/trunk/doc/pjsip-book/fetch_trac.py
+END

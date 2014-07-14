@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/4845/pjproject/trunk/pjsip-apps/src/swig/python
+END
+helper.mak
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/4794/pjproject/trunk/pjsip-apps/src/swig/python/helper.mak
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/4845/pjproject/trunk/pjsip-apps/src/swig/python/test.py
+END
+cc_mingw.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/4745/pjproject/trunk/pjsip-apps/src/swig/python/cc_mingw.c
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/4756/pjproject/trunk/pjsip-apps/src/swig/python/setup.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/4798/pjproject/trunk/pjsip-apps/src/swig/python/Makefile
+END

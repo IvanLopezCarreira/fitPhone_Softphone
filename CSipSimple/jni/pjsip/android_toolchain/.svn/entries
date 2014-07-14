@@ -1,0 +1,80 @@
+10
+
+dir
+2427
+http://csipsimple.googlecode.com/svn/trunk/CSipSimple/jni/pjsip/android_toolchain
+http://csipsimple.googlecode.com/svn
+
+
+
+2013-11-01T15:10:00.434747Z
+2321
+r3gis3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9f815046-5998-e9c0-b7e2-ac03a23edfa4
+
+pjmedia
+dir
+
+third_party
+dir
+
+pjlib-util
+dir
+
+pjlib
+dir
+
+pjnath
+dir
+
+pjsip
+dir
+
+Android.mk
+file
+
+
+
+
+2014-07-11T11:25:19.280726Z
+826908e90ef08701e12685f3b5dffd0a
+2012-07-13T16:09:25.002072Z
+1689
+r3gis3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+311
+

@@ -1,0 +1,40 @@
+10
+
+dir
+4862
+http://svn.pjsip.org/repos/pjproject/trunk/pjnath/src
+http://svn.pjsip.org/repos
+
+
+
+2014-02-04T10:13:56.238958Z
+4728
+bennylp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+pjnath
+dir
+
+pjturn-srv
+dir
+
+pjturn-client
+dir
+
+pjnath-test
+dir
+

@@ -1,0 +1,153 @@
+10
+
+dir
+2427
+http://csipsimple.googlecode.com/svn/trunk/CSipSimple/jni
+http://csipsimple.googlecode.com/svn
+
+
+
+2014-07-06T16:55:15.308048Z
+2426
+r3gis3r
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9f815046-5998-e9c0-b7e2-ac03a23edfa4
+
+third_party
+dir
+
+pjsip_mod_earlylock
+dir
+
+codec2
+dir
+
+silk
+dir
+
+swig-glue
+dir
+
+ffmpeg
+dir
+
+libvpx
+dir
+
+fdk_aac
+dir
+
+Application.mk
+file
+
+
+
+
+2014-07-11T11:25:20.620056Z
+1afa09d68f62e4be29af6fd16bf1ca75
+2014-07-06T16:55:15.308048Z
+2426
+r3gis3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2307
+
+zrtp4pj
+dir
+
+pjsip_mod_reghandler
+dir
+
+openssl
+dir
+
+amr-stagefright
+dir
+
+pjsip_mod_sipclf
+dir
+
+pjsip
+dir
+
+g726
+dir
+
+webrtc
+dir
+
+opus
+dir
+
+csipsimple-wrapper
+dir
+
+Android.mk
+file
+
+
+
+
+2014-07-11T11:25:20.616058Z
+c9f4a38dc8f0b5f0defd1a550722a3a4
+2014-06-08T15:43:08.463180Z
+2415
+r3gis3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1407
+
+g729
+dir
+
