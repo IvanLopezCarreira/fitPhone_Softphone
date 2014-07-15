@@ -187,19 +187,18 @@ public class SipHome extends SherlockFragmentActivity implements OnWarningChange
         if (!prefProviderWrapper.getPreferenceBooleanValue(SipConfigManager.PREVENT_SCREEN_ROTATION)) {
             setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_SENSOR);
         }
-
+        
         selectTabWithAction(getIntent());
         Log.setLogLevel(prefProviderWrapper.getLogLevel());
         
-
-        // Async check
-        asyncSanityChecker = new Thread() {
-            public void run() {
-                asyncSanityCheck();
-            };
-        };
-        asyncSanityChecker.start();
         
+        // Async check   //DISABLED
+//        asyncSanityChecker = new Thread() {
+//            public void run() {
+//                asyncSanityCheck();
+//            };
+//        };
+//        asyncSanityChecker.start();       
     }
 
     /**
