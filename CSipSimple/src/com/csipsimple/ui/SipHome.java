@@ -128,16 +128,16 @@ public class SipHome extends SherlockFragmentActivity implements OnWarningChange
 
         //prefWrapper = new PreferencesWrapper(this);
         prefProviderWrapper = new PreferencesProviderWrapper(this);
-
+        
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.sip_home);
 
         final ActionBar ab = getSupportActionBar();
-        ab.setDisplayShowHomeEnabled(false);
-        ab.setDisplayShowTitleEnabled(false);
+        //ab.setDisplayShowHomeEnabled(false);
+        //ab.setDisplayShowTitleEnabled(false);
         ab.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
-        // ab.setNavigationMode(ActionBar.NAVIGATION_MODE_LIST);
+        //ab.setNavigationMode(ActionBar.NAVIGATION_MODE_LIST);
 
         // showAbTitle = Compatibility.hasPermanentMenuKey
 

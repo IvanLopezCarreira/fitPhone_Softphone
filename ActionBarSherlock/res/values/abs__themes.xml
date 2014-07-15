@@ -7,7 +7,7 @@
 
     <style name="Sherlock.__Theme.Dialog" parent="android:Theme.Dialog"></style>
 
-    <style name="Theme.Sherlock" parent="Sherlock.__Theme">
+    <style name="Theme.Sherlock" parent="Sherlock.__Theme.DarkActionBar">
 
         <!-- Action bar styles (from Theme.Holo) -->
         <item name="actionDropDownStyle">@style/Widget.Sherlock.Spinner.DropDown.ActionBar</item>
